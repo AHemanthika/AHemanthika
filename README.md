@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AHemanthika
-- 👀 I’m interested in learning and deploying new cutting edge technologies related ti AI and Deep Learning
+- 👀 I’m interested in learning and deploying new cutting edge technologies related to AI and Deep Learning
 
 <!---
 AHemanthika/AHemanthika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
